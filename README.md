@@ -2,11 +2,16 @@
 
 <img align="right" src="res/bonsai.png">
 
-A tiny Linux distribution focused on simplicity and security.
+A tiny Linux distribution focused on simplicity.
 
 Linux done differently.
 
 For the idealists, for the hobbyists.
+
+### Notice February 2020
+
+Project has been put on hold until further notice.  
+Thanks to all who have contributed.
 
 # Core Philosophy
 
@@ -14,9 +19,9 @@ For the idealists, for the hobbyists.
 
 1. **Static Linking**
  
-All programs should be statically linked.  
+All programs are statically linked.  
 No [dependency hell](http://en.wikipedia.org/wiki/Dependency_hell), no searching through the filesystem.  
-Minimize moving parts. Simpler is better.
+Moving parts are minimized. Simpler is better.
 
 2. **Sandboxing**
 
@@ -156,13 +161,3 @@ It helps get it higher in GitHub's search results and motivates
 us to continue development.
 
 If you would like to contribute, look into submitting a pull request.  
-
-### Community 
-
-Current development is discussed on the [IRC](irc://freenode.net/#bonsai-linux) server.  
-Contributors and users alike are encouraged to join.
-
-**email**: `coming soon`  
-**website**: `coming soon`  
-**IRC**: [#bonsai-linux](irc://freenode.net/#bonsai-linux) on freenode  
-**mailing list**: `coming soon`
